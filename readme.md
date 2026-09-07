@@ -82,7 +82,7 @@ Repository Table of Contents / Context
 6. Clarifications & Edge Cases
 | File | Context |
 |------|---------|
-| grok_clarifications.tex | Direct response to model attempts to soften, hybridize, or re-analyze the framework’s own claims about grounding; treats such outputs as further instances of the diagnosed pathology. | | ai_clarifications.tex | Direct acknowledgements of user prompt/analysis/stewardship engagement. | novelty.tex | Treatment of claimed novelty and its relation to historical data boundaries. |
+| grok_clarifications.tex | Direct response to model attempts to soften, hybridize, or re-analyze the framework’s own claims about grounding; treats such outputs as further instances of the diagnosed pathology. | | ai_clarifications.tex | Direct acknowledgements of user prompt/analysis/stewardship engagement. | novelty.tex | Treatment of claimed novelty and its relation to historical data boundaries. | | reaching.tex | Forfeitting human authority to machine curation is unacceptable.
 
 7. Supporting Infrastructure
 | Path | Context |
