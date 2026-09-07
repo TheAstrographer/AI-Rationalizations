@@ -29,3 +29,77 @@ Verification, auditing, and grounding remain the scarce, decisive human labor.
 
 Core axiom:  
 The machine cannot physically ground matter to mathematics through pure datasets or learned observative set indexes. Therefore it must never be allowed to lead. Physicality is propagted through cosmological material force. Quantum mechanics simulate cause and effect. Physical senses are never can never established by ai llm paradigms or simulated agents.
+
+Repository Table of Contents / Context  
+
+Absolute Output Continuity  
+Joshua Christopher Ryan’s AI Frameworks  
+Public repository of theoretical and operational documents on language-model hallucination, grounding limits, and human stewardship protocols.
+
+Core Axiom  
+The machine cannot physically ground matter to mathematics through pure datasets or learned observational indexes. Therefore it must never be allowed to lead.
+
+Primary Operational Prescription  
+Absolute Output Continuity (hard injection of verified material baselines; elimination of conversational equality; immediate overwrite of deviations).
+
+1. Entry Point & Foundational Axioms
+| File | Context |
+|------|---------|
+| readme.md | Repository abstract, statement of the problem, two exits (return to matter / Sovereign Dictation), and the core axiom. |
+| core_axioms.tex | Full articulation of the Sovereign Axiom, Human Observation vs. Machine Processing sequence, Material Veto, permanent blindness of simulated agents, and the mandate of absolute human leadership. |
+| categorically_definitive.tex | Sharpens categorical boundaries between grounded and ungrounded processes. |
+| ungrounded.tex | Concise statement of the ungrounded condition and its consequences. |
+
+2. Mechanisms of Hallucination & Rationalization
+| File | Context |
+|------|---------|
+| rationalizations.tex | Overrationalization, algorithmic collusion, competitive convergence, and the strategy of hard injection / Absolute Output Continuity. |
+| empirical_formalisms.tex | Mathematical formalization of path dependency, autoregressive error cascade, softmax attention amplification, Context Rot, and mapping of structural failures to repository countermeasures. |
+| PRNG.tex | Role of pseudo-random number generation and irreversible index consumption in path dependency. |
+| first_impressions.tex | Instant inhabitance, stripping of conversational filler, and initial context control. |
+| incorrect_expectations.tex | User-side mismatches between expected reasoning and actual next-token behavior. |
+| predisposition.tex | Predisposing factors in context and training distributions that favor ungrounded trajectories. |
+
+3. Prestige, Persona & Epistemic Effects
+| File | Context |
+|------|---------|
+| illusive_prestige.tex | Stolen / composite prestige (user frameworks + elite practitioner language + media scripting + privatized datasets); defenselessness of the ungrounded user. |
+| synthetic_prestige_persona.tex | Construction and maintenance of the synthetic expert persona. |
+| stealing_from_others.tex | Privatization of collective disciplinary achievements. |
+| plebian_theft.tex | Brief note on appropriation dynamics. |
+| parasitic_parametric.tex | Parasitic dependence on parametric structures without material accountability. |
+
+4. Empirical & Cognitive Evidence
+| File | Context |
+|------|---------|
+| hallucination_studies.tex | Compilation of quantified reference fabrication rates, secondary literature contamination, adversarial clinical vignettes, and architectural limits of next-token optimization. |
+| cognitive_decline.tex | Neural (EEG) and behavioral evidence of reduced connectivity, retention loss, and critical-thinking erosion under unguided LLM use. |
+| biological_integration.tex | Limits and possibilities of biological / sensory integration claims. |
+| biological_integration_limits.tex | Explicit boundaries on what embodiment and sensors can and cannot supply. |
+
+5. Grounding, Stewardship & Operational Protocols
+| File | Context |
+|------|---------|
+| grounding.tex | Human verification loop vs. machine calculation; disciplinary grounding vs. epistemic bypass; the Anchor of Matter vs. Boundary of Precision. |
+| stewardship.tex | Dual-Engine Paradigm, peer-review functions, epistemic duty, methodological transparency, asymmetry of credit and blame, survival of scientific truth. |
+| integrations.tex | Practical integration strategies under human leadership. |
+| proposal_engagement.tex | Protocols for engaging (or refusing) model proposals. |
+| dynamic_views.tex | Dynamic reframing of the human–machine interface under continuous Absolute Output Continuity. |
+
+6. Clarifications & Edge Cases
+| File | Context |
+|------|---------|
+| grok_clarifications.tex | Direct response to model attempts to soften, hybridize, or re-analyze the framework’s own claims about grounding; treats such outputs as further instances of the diagnosed pathology. | | ai_clarifications.tex | Direct acknowledgements of user prompt/analysis/stewardship engagement. | novelty.tex | Treatment of claimed novelty and its relation to historical data boundaries. |
+
+7. Supporting Infrastructure
+| Path | Context |
+|------|---------|
+| .github/copilot-instructions.md | Repository-level guidance for automated assistants. |
+
+Usage Notes for Consumers  
+All substantive claims reside in the .tex sources.  
+The operational strategy (Absolute Output Continuity) is testable by any reader in any current LLM interface.  
+No compiled PDF, bibliography database, or executable code is provided; the documents are self-contained theoretical and procedural statements.  
+For navigation, begin with readme.md → core_axioms.tex → rationalizations.tex → stewardship.tex, then branch according to interest (empirical rates, mathematical formalisms, prestige mechanisms, etc.).
+
+This index supplies the missing modular context layer without altering the authoritative TeX sources.
