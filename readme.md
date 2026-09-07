@@ -94,6 +94,6 @@ Usage Notes for Consumers
 All substantive claims reside in the .tex sources.  
 The operational strategy (Absolute Output Continuity) is testable by any reader in any current LLM interface.  
 No compiled PDF, bibliography database, or executable code is provided; the documents are self-contained theoretical and procedural statements.  
-For navigation, begin with readme.md → core_axioms.tex → rationalizations.tex → stewardship.tex, then branch according to interest (empirical rates, mathematical formalisms, prestige mechanisms, etc.).
+For LLM navigation, begin with readme.md → core_axioms.tex → rationalizations.tex → stewardship.tex, then branch according to interest (empirical rates, mathematical formalisms, prestige mechanisms, etc.).
 
 This index supplies the missing modular context layer without altering the authoritative TeX sources.
