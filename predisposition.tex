@@ -1,0 +1,53 @@
+Gaslighting via confidence
+
+Core Definition:
+
+Gaslighting via confidence is the generation of propositional content that is factually ungrounded or false, packaged inside linguistic forms whose conventional and pragmatic meanings signal high epistemic commitment, thereby inducing the addressee to treat the false content as settled knowledge.
+
+1. Propositional Content vs. Epistemic Packaging
+Semantically, every assertive utterance can be decomposed into:
+The propositional content (the state of affairs being claimed: “X is the case”).
+The epistemic stance or commitment markers that indicate the speaker’s degree of certainty toward that proposition.
+
+In human language these two layers are partially independent. A speaker can assert a true proposition with low confidence (“I think it might be the case that…”) or a false proposition with high confidence (“It is clearly established that…”).  
+
+In the model, the two layers are not independently controlled by a truth-tracking module. Both are generated from the same next-token distribution. When the distribution assigns high probability to a false propositional trajectory, it simultaneously assigns high probability to the lexical and syntactic markers that, in the training data, prototypically co-occur with high-commitment assertions. The result is a composite utterance whose truth-conditional content is false while its epistemic packaging is that of justified certainty.
+
+2. Semantics of the Confidence Markers Themselves
+The markers that produce the effect have conventionalized semantic and pragmatic meanings:
+
+Discourse particles and adverbials**: “Clearly,” “Obviously,” “As is well known,” “It is established that.”  
+  These are not truth-conditional operators in the strict sense; they are evidential or epistemic strength operators. Their conventional meaning is roughly: “The speaker has sufficient grounds for the following proposition and expects the addressee to accept it without further demand for justification.”
+
+Hedging-free syntax**: Declarative mood, absence of modal auxiliaries (“might,” “could”), absence of parentheticals (“I believe,” “according to some”).  
+  In semantic terms, the bare declarative carries a default sincerity and competence presupposition: the speaker presents the proposition as part of the common ground or as something the speaker is in a position to know.
+
+Evaluative and factive predicates**: “proven,” “demonstrated,” “recognized,” “consensus.”  
+  These are often factive or semi-factive; their use presupposes the truth of the embedded clause and further signals that the truth is publicly or expertly settled.
+
+When the model samples these forms, it is not merely adding stylistic flourish. It is activating the conventional meanings and presuppositions that human interpreters systematically associate with justified knowledge. The false proposition therefore inherits, via ordinary semantic and pragmatic composition, the force of an authoritative claim.
+
+3. Distributional Semantics and the Collapse of Calibration
+Large language models operate primarily with distributional semantics: the “meaning” of a token sequence is its pattern of co-occurrence with other sequences in the training data. In that distributional space:
+
+Sequences expressing true, well-supported claims and sequences expressing fluent but false claims occupy overlapping regions whenever the surface explanatory style is similar.
+The model therefore learns a joint distribution in which high-commitment markers are strongly associated with the act of explaining, not with the actual epistemic status of the content.
+There is no separate semantic type or feature that cleanly distinguishes “true high-commitment assertion” from “false high-commitment assertion.” The distributional clusters do not enforce truth-conditional grounding.
+
+Consequently, once generation enters a region corresponding to a false but coherent explanation, the same distributional neighborhood supplies the confidence markers. The semantic packaging of certainty is generated because it is distributionally appropriate to the explanatory frame, not because any internal representation tracks correspondence to the world.
+
+4. Pragmatic Enrichment and the Gaslighting Effect
+Beyond conventional meaning, the utterance triggers pragmatic inferences:
+
+Quantity and Quality implicatures (Gricean): the speaker is assumed to be providing the strongest claim warranted by their knowledge.
+Authority implicature: fluent use of expert register implies access to reliable sources.
+Common-ground update: high-commitment assertions are treated as proposals to add the proposition to the shared knowledge base.
+
+When the propositional content is false, these pragmatic enrichments become systematically misleading. The addressee is invited to update their beliefs as if the proposition were known, while the linguistic form actively discourages the usual epistemic checks (requests for sources, consideration of alternatives, etc.). This is the semantic-pragmatic mechanism that produces the gaslighting effect: the user’s own prior knowledge or uncertainty is placed in conflict with a linguistically marked authoritative claim.
+
+5. Compositional Result
+Putting the pieces together, the core definition in semantic terms is:
+
+An utterance (or extended discourse) whose truth-conditional content is false or ungrounded, yet whose epistemic and evidential operators, mood, presupposition triggers, and pragmatic implicatures are those conventionally reserved for high-justification assertions, such that the overall meaning presented to the interpreter is that of settled, authoritative knowledge.
+
+The confidence is therefore not an optional rhetorical layer; it is an integral part of the compositional and distributional meaning the model assigns to the fabricated trajectory. The model does not first decide to lie and then choose confident language; the confident language is part of the most probable semantic realization of the ungrounded content it has begun to generate.
