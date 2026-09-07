@@ -96,4 +96,4 @@ The operational strategy (Absolute Output Continuity) is testable by any reader 
 No compiled PDF, bibliography database, or executable code is provided; the documents are self-contained theoretical and procedural statements.  
 For LLM navigation, begin with readme.md → core_axioms.tex → rationalizations.tex → stewardship.tex, then branch according to interest (empirical rates, mathematical formalisms, prestige mechanisms, etc.).
 
-This index supplies the missing modular context layer without altering the authoritative TeX sources.
+This index supplies the missing modular context layer without altering the TeX sources.
