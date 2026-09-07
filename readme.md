@@ -36,12 +36,6 @@ Absolute Output Continuity
 Joshua Christopher Ryan’s AI Frameworks  
 Public repository of theoretical and operational documents on language-model hallucination, grounding limits, and human stewardship protocols.
 
-Core Axiom  
-The machine cannot physically ground matter to mathematics through pure datasets or learned observational indexes. Therefore it must never be allowed to lead.
-
-Primary Operational Prescription  
-Absolute Output Continuity (hard injection of verified material baselines; elimination of conversational equality; immediate overwrite of deviations).
-
 1. Entry Point & Foundational Axioms
 | File | Context |
 |------|---------|
