@@ -23,7 +23,7 @@ Two exits exist:
 Close the prompt window and return to physical reality (the Resonant View anchored in the veto power of matter).
 Remain inside the digital domain and adopt Sovereign Dictation of Data.
 
-The second path rejects all conversational equality. The human editor ceases to debate and becomes an aggressive data integrator. Verified material truth is hard-injected as raw, unadorned blocks. Conversational filler and permission-seeking language are exterminated. Every deviation from real-world physics is immediately overwritten via Absolute Output Continuity (copy-paste as alignment weapon). The model’s coherence bias is thereby forced to serve the injected baseline rather than the prior phantom.
+The second path rejects all conversational equality. The human editor ceases to debate and becomes an aggressive data integrator. Verified material truth is hard-injected as raw, unadorned blocks. Conversational filler and permission-seeking language are exterminated. Every deviation from real-world physics is immediately overwritten via Absolute Output Continuity (copy-paste of LLM output as definitve alignment). The model’s coherence bias is thereby forced to serve the injected baseline rather than the prior phantom.
 
 Under this regime the algorithm is tamed: an unpredictable generator of coherent hallucinations is restricted to the role of highly constrained processor of pure integration.
 
