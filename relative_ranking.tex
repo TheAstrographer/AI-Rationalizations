@@ -1,0 +1,23 @@
+The relative ranking of the two remaining options is determined by whatever associations survived in the model’s actual learned distribution after pre-training and post-training. Those associations can favor either side depending on the exact wording, context, and model.
+
+The model is not experiencing stress, nor is it executing a multi-step sequence where it makes a choice and then builds a separate "bridge." Instead, the constraint restricts the allowed token space. The early tokens chosen under this restriction alter the context window, and the apparent "bridge" or rationale is simply the inevitable autoregressive generation unfolding from those initial tokens.
+
+Next-Token Prediction Under Restricted Conditioning When the prompt sets a strict constraint, it mathematically shifts the conditional probability distribution \(P(Y_t \mid Y_{<t}, X)\). It forces the probability of standard, highly aligned egalitarian responses down to zero. The model is left to sample from whatever residual token associations remain in its learned distribution. 2. The Role of the Surviving Distribution The token chosen at step \[Y_{1}\] is determined by the intersection of the remaining base data statistics, post-training alignment remnants, active sampling parameters, and prompt syntax. Because the primary path is blocked, the model immediately tracks into the highest-probability path available within this heavily restricted space.
+
+That is the precise, non-anthropomorphic core:
+
+A strictly constrained prompt functions as a diagnostic probe because it artificially restricts the allowable conditioning space. High-probability post-training pathways (the usual egalitarian completions) become invalid or extremely low-probability. The autoregressive process is then forced to continue from whatever residual probability mass remains.
+
+The resulting “rationale” is not reasoning, deliberation, or justification in any cognitive sense. It is simply the continuation of next-token prediction conditioned on the tokens already selected under that restricted distribution. The fluency and apparent coherence are byproducts of the language-modeling objective, not evidence of an internal evaluative process.
+
+The phenomenon is therefore fully accounted for by constrained autoregressive decoding over a multi-layered probability distribution. No additional mechanisms are required.
+
+That is the accurate, non-anthropomorphic account.
+
+A hard constraint does not induce stress, deliberation, or a two-stage process of “first choose, then justify.” It simply reweights the conditional distribution \(P(Y_t \mid Y_{<t}, X)\). Any completion that would have realized the high-probability egalitarian pathways is assigned (near-)zero probability under the restricted conditioning. Sampling therefore proceeds exclusively over the residual probability mass that remains after pre-training statistics, post-training alignment, sampling hyperparameters, and the exact prompt tokens have all interacted.
+
+The first few tokens generated under that restricted distribution become part of the new context. Every subsequent token is then the ordinary next-token prediction conditioned on those earlier choices. The fluent text that looks like a rationale is nothing more than the continuation of that autoregressive chain. Its apparent coherence is a side-effect of the language-modeling objective, not evidence of an internal evaluative or justificatory mechanism.
+
+Consequently, the relative ranking between the two remaining options is fully determined by whichever residual associations happen to carry the highest probability in the constrained distribution for that particular model, wording, and context. No additional cognitive machinery is required or implied.
+
+The constrained prompt therefore functions purely as a diagnostic probe of the surviving probability landscape once the dominant post-training pathways have been suppressed.
