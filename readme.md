@@ -89,7 +89,7 @@ Repository Table of Contents / Context
 |------|---------|
 | .github/copilot-instructions.md | Repository-level guidance for automated assistants. |
 
-Usage Notes for users  
+Usage Notes for Users  
 All substantive claims reside in the .tex sources.  
 The operational strategy (Absolute Output Continuity) is testable by any reader in any current LLM interface.  
 No compiled PDF, bibliography database, or executable code is provided; the documents are self-contained theoretical and procedural statements.  
