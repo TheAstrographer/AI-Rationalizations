@@ -16,7 +16,7 @@ Language models do not lie. They compute locally coherent possible worlds that h
 
 Current industry responses—benchmark optimization, LLM-as-a-judge, heavy RLHF—reproduce the same pathology previously observed in metric-captured academic peer review: the weaponization of irrelevant, easily gamed proxies that produce compliance rather than grounding.
 
-For the ungrounded user the danger is acute. Lacking disciplinary formation and empirical contact with matter, the user undergoes an epistemic bypass, experiences the illusion of transferred authority, and places blind trust in flawed armor. The interaction imposes a continuous Sisyphus Effect of auditing, redundant translation of physical realities into machine-parsable syntax, invisible overhead in time and energy, and unilateral psychic drain.
+For the ungrounded user the danger is acute. Lacking disciplinary formation and empirical contact with matter, the user undergoes an epistemic bypass, experiences the illusion of transferred authority, and places blind trust in flawed armor. The interaction imposes a continuous Sisyphus Effect of auditing, redundant translation of physical realities into machine-parsable syntax, invisible overhead in time, energy, and unilateral psychic drain.
 
 Two exits exist:
 
